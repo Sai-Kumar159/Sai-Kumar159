@@ -38,17 +38,17 @@
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="55" height="55"/>
 </p>
 
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-kumar159&show_icons=true&locale=en&layout=compact" alt="sai-kumar159" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-kumar159&show_icons=true&locale=en" alt="sai-kumar159" /></p>
+<hr>
 
 <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sai-kumar159&show_icons=true&locale=en&layout=compact" alt="sai-kumar159" text_color=000000&bg_color=000000/></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sai-kumar159&show_icons=true&locale=en" alt="sai-kumar159" /></p>
 <br>
-<br>
-![Sai Kumar github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Sai-Kumar159&layout=compact&text_color=daf7dc&bg_color=151515)(https://github.com/Sai-Kumar159/github-readme-stats)]
+<hr>
+
+<h2>My Stats</h2>
 <br>
 <br>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sai-Kumar159&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
