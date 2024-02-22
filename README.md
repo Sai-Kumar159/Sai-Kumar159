@@ -23,7 +23,7 @@
 - ⚡ Fun fact **I don't just code; I'm an idea maestro! 🧠✨**
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"> 💻 Languages and Tools:</h3>
 <p align="center">
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/> </a>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
